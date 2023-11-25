@@ -2,7 +2,7 @@ A simple package for printing text to the terminal in columns
 
 # Example
 
-```
+```python
 from print_columns import print_columns
 
 
@@ -17,5 +17,8 @@ if __name__ == "__main__":
         colors=["red", "green", "blue"],
     )
 ```
+
+The output looks like this:
+![alt text](https://github.com/MattUnderscoreZhang/print_columns/blob/main/examples/screenshot.png?raw=true)
 
 See the examples/ folder for more.
